@@ -199,6 +199,180 @@ document.addEventListener('DOMContentLoaded', function() {
         preposition: "",
         example: "Durch den Bau der neuen Autobahn wird das abgelegene Gebiet besser erschlossen. Die Archäologen konnten aus den Funden auf dem Gelände wichtige Informationen über die antike Zivilisation erschließen. Durch intensive Recherche und Analyse konnte der Detektiv schließlich den Fall erschließen.",
         translation: "to open up, to make accessible, to develop, to understand"
+        },
+        {
+        word: "sorgen für",
+        preposition: "",
+        example: "Als Eltern müssen wir für das Wohlbefinden unserer Kinder sorgen. Der Chef sorgt für eine angenehme Arbeitsumgebung für seine Mitarbeiter. Als Mutter sorgt sie für ihre Kinder, indem sie ihnen Essen kocht und sie zur Schule bringt.",
+        translation: "to take care of, to provide for"
+        },
+        {
+        word: "erzeugen",
+        preposition: "",
+        example: "Solarzellen erzeugen elektrische Energie aus Sonnenlicht. Diese Fabrik erzeugt hochwertige Möbel aus nachhaltigem Holz.",
+        translation: "to produce, to generate"
+        },
+        {
+        word: "sich sehnen nach",
+        preposition: "nach+dat",
+        example: "Sie sehnt sich nach Ruhe und Entspannung nach einem langen Arbeitstag. Sie sehnte sich nach einem ruhigen Tag am Strand. Nach all den Jahren im Ausland sehnte er sich nach der Heimat.",
+        translation: "to long for, to desire"
+        },
+        {
+        word: "Kram",
+        preposition: "",
+        example: "Ich muss meinen Kram aufräumen, es liegt überall herum. Hast du noch Platz in deinem Rucksack für meinen Kram?",
+        translation: "stuff, things, odds and ends"
+        },
+        {
+        word: "dadurch",
+        preposition: "",
+        example: "Er sparte Geld und konnte dadurch eine Reise machen. Sie arbeitete hart und verbesserte dadurch ihre Fähigkeiten. Er hat sein Verhalten geändert, und dadurch verbesserte sich das Arbeitsklima. Sie hat viel gelernt, und dadurch konnte sie die Prüfung bestehen.",
+        translation: "thereby, so that, thus, consequently"
+        },
+        {
+        word: "überwiegen",
+        preposition: "",
+        example: "Die Meinung des Mehrheitsanteils der Bevölkerung überwiegt. Die Vorteile dieses Plans überwiegen die Nachteile. Obwohl es einige negative Aspekte gibt, überwiegt insgesamt das Positive.",
+        translation: "to prevail, to dominate, to overwhelm"
+        },
+        {
+        word: "diesbezüglich",
+        preposition: "",
+        example: "Wir haben bereits über die Bedeutung von Teamarbeit gesprochen. Diesbezüglich möchte ich noch einige Punkte hervorgeben.",
+        translation: "in this regard, in relation to this, concerning this"
+        },
+        {
+        word: "anmerken",
+        preposition: "",
+        example: "Darf ich etwas dazu anmerken? Er hat einige interessante Punkte währen der Diskussion angemerkt.",
+        translation: "to remark, to comment"
+        },
+        {
+        word: "hinsichtlich",
+        preposition: "",
+        example: "Hinsichtlich des Projekts müssen wir noch einige wichtige Details klären.",
+        translation: "regarding, in terms of"
+        },
+        {
+        word: "aufgrund",
+        preposition: "",
+        example: "Ich konnte nicht zur Arbeit kommen aufgrund des schlechten Wetters. Aufgrund der hohen Nachfrage haben wir zusätzliche Produkte bestellt.",
+        translation: "because of"
+        },
+        {
+        word: "einführen",
+        preposition: "",
+        example: "Das Unternehmen plant, ein neues Produkt auf dem Markt einzuführen. Die Regierung hat beschlossen, eine neue Steuer einzuführen, um die Umwelt zu schützen.",
+        translation: "to introduce, to implement"
+        },
+        {
+        word: "abwägen",
+        preposition: "",
+        example: "Bevor du eine Entscheidung triffst, solltest du alle Vor- und Nachteile abwägen. Der Politiker muss die verschiedenen Interessen der Bevölkerung abwägen, bevor er eine Entscheidung trifft.",
+        translation: "to consider, to take into account, to weigh"
+        },
+        {
+        word: "Missstand",
+        preposition: "",
+        example: "Die Proteste richten sich gegen die Missstände in der Regierung und fordern Reformen. Die Organisation setzt sich für die Beseitigung socialer Missstände ein.",
+        translation: "malpractice, misconduct, mismanagement, abuse"
+        },
+        {
+        word: "auf etwas hinweisen",
+        preposition: "auf+akk",
+        example: "Der Lehrer hat die Schüler auf die wichtigen Regeln in der Prüfung hingewiesen. Das Schild weist auf die Gefahren im Baustellenbereich hin.",
+        translation: "to indicate, to point out"
+        },
+        {
+        word: "für etwas sprechen",
+        preposition: "für+akk",
+        example: "Es gibt viele Gründe, die für eine nachhaltige Energienutzung sprechen. Die hohe Kundenzufriedenheit spricht für die Qualität des Produkts.",
+        translation: "to speak in favor of, to be in favor of"
+        },
+        {
+        word: "angehend",
+        preposition: "",
+        example: "Die angehende Ärztin absolviert derzeit ihr Praktischesjahr im Krankenhaus. Der angehende Schauspieler nimmt Schauspielunttericht, um seine Fähigkeiten zu verbessern.",
+        translation: "prospective, aspiring, concerning"
+        },
+        {
+        word: "benoten",
+        preposition: "",
+        example: "Die Lehrerin wird die Tests der Schüler nächste Woche benoten.",
+        translation: "to grade, to mark"
+        },
+        {
+        word: "nachgehen",
+        preposition: "",
+        example: "Er möchte seinem Hobby nachgehen und Gitarre spielen lernen. Die Polizei muss den Vorfall gründlich nachgehen, um den Täter zu finden.",
+        translation: "to pursue, to follow, to investigate, to look into"
+        },
+        {
+        word: "vielfältig",
+        preposition: "",
+        example: "In unserer Stadt gibt es eine vielfältige Auswahl an Restaurants mit internationaler Küche.",
+        translation: "varied, diverse, multifaceted"
+        },
+        {
+        word: "betragen",
+        preposition: "",
+        example: "Die Rechnung beträgt insgesamt 50 Euro. Die Temperatur betrug gestern 25 Grad Celcius. Die Kosten für das Projekt betragen mehr als erwartet.",
+        translation: "to amount to, to total"
+        },
+        {
+        word: "gewähren",
+        preposition: "",
+        example: "Die Regierung gewährt finanzielle Unterstützung für bedürftige Familien. Das Unternehmen gewährt seinen Mitarbeitern regelmäßige Fortbildungsmöglichkeiten.",
+        translation: "to grant, to provide, to afford"
+        },
+        {
+        word: "über den Tellerrand schauen",
+        preposition: "",
+        example: "Es ist wichtig, über den Tellenrand zu schauen, um neue Lösungen für das Problem zu finden. In unserer globalisierten Welt ist es entscheidend, über den Tellerrand zu schauen und kulturelle Vielfalt zu schätzen.",
+        translation: "to think outside the box, to look beyond one's own perspective"
+        },
+        {
+        word: "auf/an etwas verweisen",
+        preposition: "auf+akk/an+akk",
+        example: "Der Lehrer verweist die Schüler auf das Wörterbuch, um unbekannte Vokabeln nachzuschlagen. Der Kundenservice verweis die Anrufer an die technische Abteilung für weitere Unterstützung. Die Polizei verweist auf die Sicherheitsregeln, die in solchen Situationen zu befolgen sind.",
+        translation: "to direct, to refer to"
+        },
+        {
+        word: "sich beziehen auf",
+        preposition: "auf+akk",
+        example: "Dieses Buch bezieht sich auf verschiedene historische Ereignisse. Der Artikel bezieht sich auf die Auswirkungen des Klimawandels auf die Artenvielfalt. In seinem Vortrag bezog sich der Professor auf die neuesten Forschungsergebnisse.",
+        translation: "to refer to, to relate to"
+        },
+        {
+        word: "auf etwas/jemanden stoßen",
+        preposition: "auf+akk",
+        example: "Ich bin gestern spazieren gegangen und bin auf einen alten Freund gestoßen. Als ich im Garten grub, stieß ich auf eine alte Münze aus dem 17. Jahrhundert.",
+        translation: "to come across, to encounter"
+        },
+        {
+        word: "abschaffen",
+        preposition: "",
+        example: "Die Regierung plant, die umstrittene Steuer abzuschaffen. Viele Menschen setzen sich dafür ein, Tierversuche abzuschaffen. Das Unternehmen hat beschlossen, das traditionelle Leistungsbeurteilungssystem abzuschaffen und durch ein neues Modell zu ersetzen.",
+        translation: "to abolish, to do away with"
+        },
+        {
+        word: "sich ereignen",
+        preposition: "",
+        example: "Der Unfall ereignete sich gester auf der Autobahn. Das historische Ereignis ereignete sich von über hundert Jahren.",
+        translation: "to occur, to happen"
+        },
+        {
+        word: "angewiesen auf",
+        preposition: "auf+akk",
+        example: "Die ältere Dame ist auf fremde Hilfe angewiesen, um ihre Einkäufe zu erledigen. Er ist auf seine Brille angewiesen, um gut zu sehen.",
+        translation: "to be dependent, to be reliant"
+        },
+        {
+        word: "verhängen",
+        preposition: "",
+        example: "Die Regierung hat eine Ausgangsperre verhängt, um die Verbreitung des Virus einzudämmen. Der Richter verhängte eine Geldstrafe gegen den Angeklagten wegen seiner illegalen Aktivitäten.",
+        translation: "to impose, to apply"
         }
     ];
     
