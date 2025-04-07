@@ -715,6 +715,180 @@ document.addEventListener('DOMContentLoaded', function() {
         preposition: "",
         example: "Seine gradlinige Art zu kommunizieren macht es leicht, mit ihm zusammenzuarbeiten. Ihr gradliniger Ansatz hat dazu beigetragen, das Problem schnell zu lösen.",
         translation: "straightforward, direct"
+        },
+        {
+        word: "anwenden",
+        preposition: "",
+        example: "Ich werde diese Technik in meinem Projekt anwenden. Du solltest diese Methode auf verschiedene Situationen anwenden. Sie wandte die neuen mathematischen Konzepte an, um das Problem zu lösen. Es ist wichtig, das erlernte Wissen in der Praxis anzuwenden, um es wirklich zu verstehen.",
+        translation: "to apply, to use, to employ"
+        },
+        {
+        word: "eingreifen",
+        preposition: "",
+        example: "Die Polizei musste eingreifen, um die Auseinandersetzung zu beenden. Es ist wichtig, frühzeitig einzugreifen, um schlimmere Folgen zu verhindern.",
+        translation: "to intervene, to interfere, to step in, to take action"
+        },
+        {
+        word: "Fürsorge",
+        preposition: "",
+        example: "Die Fürsorge für ältere Menschen ist in unserer Gesellschaft sehr wichtig. Die Mutter zeigt ihren Kindern liebevolle Fürsorge und Aufmerksamkeit.",
+        translation: "care, attention, concern"
+        },
+        {
+        word: "sonst",
+        preposition: "",
+        example: "Geh nach Hause, sonst verpasst du den Zug. Ich muss einkaufen gehen, sonst haben wir nichts zum Abendessen.",
+        translation: "otherwise"
+        },
+        {
+        word: "Aufsicht",
+        preposition: "",
+        example: "Die Lehrer hatten während des Ausflugs die Aufsicht über die Schüler. Der Chef hat die Aufsicht über das Projekt, um sicherzustellen, dass alles nach Plan verläuft.",
+        translation: "supervision, monitoring, management, control"
+        },
+        {
+        word: "bevorzugen",
+        preposition: "",
+        example: "Die Nutzer bevorzugen es, Werbung zu sehen, anstatt zu bezahlen. Der Kunde bevorzugte einen schnelleren Versand für seine Bestellung. Viele Menschen bevorzugen Online-Shopping gegenüber dem Einkauf im Geschäft.",
+        translation: "to prefer, to favor"
+        },
+        {
+        word: "kostendeckend",
+        preposition: "",
+        example: "Die Preise für unsere Dienstleistungen sind so gestaltet, dass sie kostendeckend sind. Das Unternehmen muss sicherstellen, dass seine Preise kostendeckend sind, um profitabel zu sein.",
+        translation: "cost-covering, self-sustaining"
+        },
+        {
+        word: "sich aufhalten",
+        preposition: "",
+        example: "Wir haben uns im Park aufgehalten, bis es dunkel wurde. Die Gäste können sich im Aufenthaltsraum des Hotels aufhalten, während sie auf ihr Zimmer warten.",
+        translation: "to stay, to remain, to linger, to be located, to dwell"
+        },
+        {
+        word: "zuständig",
+        preposition: "",
+        example: "Die Abteilung für Kundenservice ist für alle Anfragen und Beschwerden zuständig. Der Projektleiter ist für die Koordination des Teams zuständig. Bitte wenden Sie sich an die zuständige Abteilung für weitere Informationen.",
+        translation: "responsible, competent, in charge"
+        },
+        {
+        word: "genehmigen",
+        preposition: "",
+        example: "Die Stadtverwaltung hat den Bauantrag für das neue Gebäude genehmigt. Bitte lassen Sie mich wissen, ob Ihnen der vorgeschlagene Termin genehm ist.",
+        translation: "to approve, to authorize, to permit"
+        },
+        {
+        word: "beneiden",
+        preposition: "",
+        example: "Ich beneide sie um ihre Fähigkeit, so selbstbewusst aufzutreten. Sie beneidete ihre Freundin um deren luxuriösen Lebensstil. Es ist nicht gesund, andere Menschen um ihre Besitztümer zu beneiden.",
+        translation: "to envy, to desire, to be jealous of, to covet"
+        },
+        {
+        word: "vorbehaltlos",
+        preposition: "",
+        example: "Ich unterstütze deine Idee vorbehaltlos, sie hat großes Potential. Seine Hilfe war vorbehaltlos und hat uns in dieser schwierigen Zeit sehr geholfen.",
+        translation: "unreserved, unconditional, unreservedly"
+        },
+        {
+        word: "bevormunden",
+        preposition: "",
+        example: "Sie bevormunden ihre Kinder zu sehr und lassen ihnen keine Freiheit, eigene Entscheidungen zu treffen. Eltern sollten ihre Kinder ermutigen, selbstständig zu handeln, anstatt sie ständig zu bevormunden.",
+        translation: "to patronize, to domineer, to control"
+        },
+        {
+        word: "sich gut verstehen",
+        preposition: "",
+        example: "Wir verstehen uns gut, obwohl wir verschiedene Meinungen haben. Sie verstehen sich seit Jahren sehr gut und teilen viele Interessen. Es ist wichtig, dass Mitarbeiter und Vorgesetzte sich gut verstehen, um effektiv zusammenarbeiten zu können.",
+        translation: "to get along, to understand each other"
+        },
+        {
+        word: "graben",
+        preposition: "",
+        example: "Die Kinder haben einen tiefen Graben im Sandkasten gegraben. Die Arbeiter graben ein Loch für das Fundament des neuen Gebäudes.",
+        translation: "to dig"
+        },
+        {
+        word: "verlegen",
+        preposition: "",
+        example: "Wir müssen das Treffen verlegen, da es terminlich nicht passt. Er hat die Blumen auf den Tisch verlegt. Der Autor hat beschlossen, sein neues Buch zu verlegen.",
+        translation: "to reschedule, to lay, to place, to publish"
+        },
+        {
+        word: "das kommt gar nicht in Frage",
+        preposition: "",
+        example: "Möchtest du am Wochenende Überstunden machen? - Nein, das kommt gar nicht in Frage, ich habe bereits andere Pläne. Könnten wir das Projekt früher abschließen? - Leider kommt das gar nicht in Frage, wir haben nicht genügend Ressourcen.",
+        translation: "no way, that's out of question, that's not an option"
+        },
+        {
+        word: "umsonst",
+        preposition: "",
+        example: "Er hat umsonst gewartet, denn sein Freund kam nicht. Das Konzert war umsonst, also bin ich hingegangen.",
+        translation: "in vain, for nothing, for free"
+        },
+        {
+        word: "Schrott",
+        preposition: "",
+        example: "Dieses Auto ist nur noch Schrott und nicht mehr fahrtüchtig. Ich habe meinen alten Computer entsorgt, weil er nur noch Schrott war.",
+        translation: "junk, scrap"
+        },
+        {
+        word: "eklig",
+        preposition: "",
+        example: "Der verdorbene Geruch aus dem Müll war wirklich eklig. Das Essen sah so eklig aus, dass ich es nicht probieren wollte.",
+        translation: "disgusting, gross, repulsive"
+        },
+        {
+        word: "sich beklagen",
+        preposition: "",
+        example: "Er beklagte sich über das schlechte Wetter und seine schlechte Laune. Die Kunden beklagten sich über den schlechten Service.",
+        translation: "to complain, to lament"
+        },
+        {
+        word: "Ausdauer",
+        preposition: "",
+        example: "Um ein Marathon zu laufen, braucht man eine gute körperliche Ausdauer. Mit Ausdauer und hartem Training können wir unsere Ziele erreichen.",
+        translation: "endurance, perseverance, stamina"
+        },
+        {
+        word: "nachlassen",
+        preposition: "",
+        example: "Die Intensität des Regens begann allmählich nachzulassen. Seine Konzentration ließ nach, als er müde war.",
+        translation: "to diminish, to decrease, to weaken"
+        },
+        {
+        word: "verspüren",
+        preposition: "",
+        example: "Ich verspüre eine große Freude, wenn ich meine Familie treffe. Nach dem langen Spaziergang verspürte sie Müdigkeit.",
+        translation: "to feel, to sense"
+        },
+        {
+        word: "in vollem Gange",
+        preposition: "",
+        example: "Die Vorbereitungen für das Festival sind in vollem Gange.",
+        translation: "in full swing, in progress"
+        },
+        {
+        word: "sich schminken",
+        preposition: "",
+        example: "Ich brauche ungefähr 15 Minuten, um mich morgens zu schminken.",
+        translation: "to put on make up"
+        },
+        {
+        word: "eintönig",
+        preposition: "",
+        example: "Die eintönige Landschaft auf der langen Autofahrt wurde irgendwann ermüdend.",
+        translation: "monotonous, dull, repetitive"
+        },
+        {
+        word: "Bestandteil",
+        preposition: "",
+        example: "Die Batterie ist ein wichtiger Bestandteil des elektrischen Autos. Diese Zutaten sind die wesentlichen Bestandteile des Rezepts. Das Eiweiß ist ein wichtiger Bestandteil einer ausgewogenen Ernährung.",
+        translation: "component, part, element"
+        },
+        {
+        word: "aufbewahren",
+        preposition: "",
+        example: "Lebensmittel sollten im Kühlschrank aufbewahrt werden, um ihre Frische zu erhalten. Wichtige Dokumente sollten sicher aufbewahrt werden, um sie vor Schäden zu schützen.",
+        translation: "to store, to keep, to preserve"
         }
     ];
     
