@@ -8,6 +8,198 @@ document.addEventListener('DOMContentLoaded', function() {
             translation: "to disconnect oneself, to detach oneself"
         },
         // Buraya daha fazla kelime ekleyebilirsiniz
+        {
+        word: "sich abkoppeln",
+        preposition: "von+dat",
+        example: "Er hat beschlossen, sich von der stressigen Arbeitsumgebung abzukoppeln und eine Auszeit zu nehmen.",
+        translation: "to disconnect oneself, to detach oneself"
+        },
+        {
+        word: "sich verschieben",
+        preposition: "",
+        example: "Der Termin hat sich um eine Stunde verschoben. Die Verantwortlichkeiten haben sich im Laufe der Zeit verschoben.",
+        translation: "to shift, to move"
+        },
+        {
+        word: "sich umstellen",
+        preposition: "auf+Akk",
+        example: "Nach dem Umzug müssten wir uns auf eine neue Umgebung umstellen. Der Mitarbeiter musste sich aufgrund neuer Technologien und Arbeitsabläufe umstellen.",
+        translation: "to adapt, to adjust"
+        },
+        {
+        word: "hervorrufen",
+        preposition: "",
+        example: "Das Bild hat starke Emotionen hervorgerufen. Die Entscheidung des Gerichts hat öffentlichen Widerstand hervorgerufen.",
+        translation: "to evoke, to cause, to elicit, to induce"
+        },
+        {
+        word: "missachten",
+        preposition: "",
+        example: "Er hat die Verkehrsregeln missachtet und wurde deshalb bestraft. Die Warnungen wurden leider oft missachtet.",
+        translation: "to disregard, to ignore"
+        },
+        {
+        word: "schwerwiegend",
+        preposition: "",
+        example: "Es gibt schwerwiegende Bedenken bezüglich der Sicherheit. Die Folgen des Unfalls waren schwerwiegend.",
+        translation: "serious, significant"
+        },
+        {
+        word: "schwächen",
+        preposition: "",
+        example: "Das schlechte Wetter hat die Struktur des Gebäudes geschwächt. Stress kann das Immunsystem schwächen.",
+        translation: "to weaken, to diminish"
+        },
+        {
+        word: "beeinträchtigen",
+        preposition: "",
+        example: "Der Lärm beeinträchtigt meine Konzentration. Die schlechte Wetterlage hat die Ernte beeinträchtigt.",
+        translation: "to impair, to hinder, to affect"
+        },
+        {
+        word: "unterschätzen",
+        preposition: "",
+        example: "Ich habe die Schwierigkeiten dieser Aufgabe unterschätzt. Viele Menschen unterschätzen ihr eigenes Potenzial.",
+        translation: "to underestimate"
+        },
+        {
+        word: "umsetzen",
+        preposition: "",
+        example: "Wir müssen die neuen Strategien in unserem Unternehmen umsetzen. Die Regierung plant, umweltfreudliche Maßnahmen umzusetzen.",
+        translation: "to implement, to realize, to put into practice"
+        },
+        {
+        word: "zwingen",
+        preposition: "",
+        example: "Er wurde gezwungen, ein Geständnis abzulegen. Die Umstände zwangen sie, eine Entscheidung zu treffen. Der Druck der Gesellschaft, in der sie lebt, zwingt sie dazu, einen Mann zu finden, bevor sie 30 wird.",
+        translation: "to force, to compel"
+        },
+        {
+        word: "Erfordernis",
+        preposition: "",
+        example: "Bewerber müssen bestimmte Erfordernisse erfüllen. Für diese Position besteht das Erfordernis eines abgeschlossenen Studiums.",
+        translation: "requirement, necessity"
+        },
+        {
+        word: "Tugend",
+        preposition: "",
+        example: "Die Tugend der Geduld ist eine wichtige Eigenschaft. Mut ist eine Tugend, die oft bewundert wird.",
+        translation: "virtue"
+        },
+        {
+        word: "gerecht",
+        preposition: "",
+        example: "Die Entscheidung des Richters war gerecht und basierte auf vorliegenden Beweisen.",
+        translation: "fair, just"
+        },
+        {
+        word: "durchaus",
+        preposition: "",
+        example: "Das ist durchaus eine gute Idee.",
+        translation: "definitely, certainly, indeed, by all means"
+        },
+        {
+        word: "überwinden",
+        preposition: "",
+        example: "Sie hat ihre Ängste überwunden und ist nun in der Lage, vor Publikum zu sprechen.",
+        translation: "to overcome, to conquer"
+        },
+        {
+        word: "wohnhaft",
+        preposition: "",
+        example: "Herr Müller ist wohnhaft in Berlin. Die Firma ist wohnhaft in einem Bürogebäude im Stadtzentrum. Rund ein Viertel der in der Schweiz wohnhaften Bevölkerung beteiligt sich an freiwilligen Arbeitseinsätzen.",
+        translation: "residing, living, resident"
+        },
+        {
+        word: "verrichten",
+        preposition: "",
+        example: "Er verrichtet seine Arbeit gewissenhaft und effizient. Der Gärtner verrichtet seine täglichen Aufgaben im Garten.",
+        translation: "to carry out, to perform, to execute"
+        },
+        {
+        word: "vorwiegend",
+        preposition: "",
+        example: "In diesem Stadtviertel leben vorwiegend ältere Menschen. Die Veranstaltung richtet sich vorwiegend an Familien mit Kindern. Der Film besteht vorwiegend aus dokumentarischen Aufnahmen.",
+        translation: "predominantly, mainly"
+        },
+        {
+        word: "ausschließlich",
+        preposition: "",
+        example: "Der Zugang zum Schwimmbad ist ausschließlich für Hotelgäste. In diesem Geschäft werden ausschließlich Bio-Produkte verkauft. Der Raum ist ausschließlich für Meetings und Besprechungen reserviert.",
+        translation: "exclusively, solely"
+        },
+        {
+        word: "Gleichstellung",
+        preposition: "",
+        example: "Die Gleichstellung von Frauen und Männern ist ein wichtiges Ziel der Gesellschaft.",
+        translation: "equality, equal treatment"
+        },
+        {
+        word: "Erwerbsarbeit",
+        preposition: "",
+        example: "Viele Menschen sind auf Erwerbsarbeit angewiesen, um ihre Lebensunterhalt zu verdienen.",
+        translation: "employment"
+        },
+        {
+        word: "Eheschließung",
+        preposition: "",
+        example: "Die Eheschließung fand in einer kleinen Kirche statt.",
+        translation: "marriage, wedding"
+        },
+        {
+        word: "Zuwendung",
+        preposition: "",
+        example: "Die Mutter schenkt ihrem Kind viel Zuwendung und Liebe. Ältere Menschen benötigen oft Zuwendung und Unterstützung um sich wohlzufinden.",
+        translation: "affection, attention, devotion, care"
+        },
+        {
+        word: "eintauchen",
+        preposition: "",
+        example: "Die Kinder liebten es, im Sommer ins kalte Wasser einzutauchen. Beim Lesen dieses Buches kann man in eine andere Welt eintauchen. Er eintauchte in die Arbeit und vergaß dabei die Zeit.",
+        translation: "to immerse, to submerge"
+        },
+        {
+        word: "verzaubern",
+        preposition: "",
+        example: "Der Magier verzauberte das Publikum mit seinen beeindruckenden Tricks.",
+        translation: "to enchant, to charm, to bewitch"
+        },
+        {
+        word: "sich befinden",
+        preposition: "",
+        example: "Das Restaurant befindet sich in der Innenstadt.",
+        translation: "to be located, to be situated"
+        },
+        {
+        word: "gießen",
+        preposition: "",
+        example: "Bitte gieß die Blumen, damit sie nicht vertrocknen.",
+        translation: "to water"
+        },
+        {
+        word: "hingegen",
+        preposition: "",
+        example: "Ich bevorzuge Tee, hingegen trinkt mein Bruder lieber Kaffee. Sie liebt Schokolade. Ihr Bruder hingegen bevorzugt Vanilla.",
+        translation: "however, on the other hand, in contrast"
+        },
+        {
+        word: "auf etwas ankommen",
+        preposition: "",
+        example: "Bei der Wahl seines Jobs kommt es nicht nur auf das Gehalt an, sondern auch darauf, ob man sich mit den Werten und Zielen des Unternehmens identifizieren kann. Wenn du Erfolg haben willst, kommt es darauf an, hart zu arbeiten und dranzubleiben.",
+        translation: "to depend on, to be important, to be crucial"
+        },
+        {
+        word: "ergreifen",
+        preposition: "",
+        example: "Er ergreift die Gelegenheit und nutzt sie zu seinem Vorteil. Er ergreift immer die Initiative und übernimmt Verantwortung für seine Aufgaben. Die Firma hat Maßnahmen ergriffen, um die Produktivität zu steigern.",
+        translation: "to seize, to take the initiative, to take measures"
+        },
+        {
+        word: "erschließen",
+        preposition: "",
+        example: "Durch den Bau der neuen Autobahn wird das abgelegene Gebiet besser erschlossen. Die Archäologen konnten aus den Funden auf dem Gelände wichtige Informationen über die antike Zivilisation erschließen. Durch intensive Recherche und Analyse konnte der Detektiv schließlich den Fall erschließen.",
+        translation: "to open up, to make accessible, to develop, to understand"
+        }
     ];
     
     // DOM elementleri
