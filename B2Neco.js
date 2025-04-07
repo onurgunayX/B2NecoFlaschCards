@@ -373,6 +373,180 @@ document.addEventListener('DOMContentLoaded', function() {
         preposition: "",
         example: "Die Regierung hat eine Ausgangsperre verhängt, um die Verbreitung des Virus einzudämmen. Der Richter verhängte eine Geldstrafe gegen den Angeklagten wegen seiner illegalen Aktivitäten.",
         translation: "to impose, to apply"
+        },
+        {
+        word: "sich ausdenken",
+        preposition: "",
+        example: "Er hat sich eine fantastische Geschichte ausgedacht. Sie muss sich schnell eine Ausrede ausdenken, um ihre Verspätung zu erklären. Die Kinder haben sich ein Spiel ausgedacht, um sich die Zeit zu vertreiben.",
+        translation: "to come up with, to invent"
+        },
+        {
+        word: "Aufnahme",
+        preposition: "",
+        example: "Die Aufnahme des Konzerts wurde auf DVD veröffentlicht. Er erhielt die Aufnahme in die Universität seiner Wahl. Die Aufnahme neuer Flüchtlinge wurde sorgfältig geplant.",
+        translation: "recording, footage, acceptance, admission, intake, reception"
+        },
+        {
+        word: "Gerücht",
+        preposition: "",
+        example: "Die Gerüchte über die bevorstehende Firmenfusion haben sich als falsch herausgestellt. Die Gerüchte über den Prominenten sorgten für Aufregung in den sozialen Medien. Das Gerücht über ihren Rücktritt verbreitete sich innerhalb weniger Stunden im Büro.",
+        translation: "rumor, gossip"
+        },
+        {
+        word: "zusehend",
+        preposition: "",
+        example: "Die Situation verschlechtert sich zusehend. Er wird zusehend selbstbewusster.",
+        translation: "gradually, increasingly"
+        },
+        {
+        word: "Zuzug",
+        preposition: "",
+        example: "In den letzten Jahren gab es einen Zuzug von jungen Familien in die ländlichen Gebiete. Die wirtschaftliche Entwicklung der Stadt hat zu einem Zuzug von Arbeitnehmern geführt.",
+        translation: "influx, arrival, migration"
+        },
+        {
+        word: "in Geiselhaft nehmen",
+        preposition: "",
+        example: "Die Entführer hielten den Diplomaten in Geiselhaft, bis ihre politischen Forderungen erfüllt wurden. Die Terroristen drohten damit, die Geiseln zu töten, wenn ihre politischen Forderungen nicht erfüllt würden.",
+        translation: "hostage taking, hostage situation"
+        },
+        {
+        word: "frohlocken",
+        preposition: "",
+        example: "Die Fans frohlockten über den Sieg ihrer Lieblingsmannschaft.",
+        translation: "to rejoice, to exult"
+        },
+        {
+        word: "feststellen",
+        preposition: "",
+        example: "Die Ärzte konnten die Ursache für ihre Symptome nicht feststellen. Die Polizei hat festgestellt, dass es sich um einen Unfall handelte.",
+        translation: "to identify, to recognize, to notice, to determine"
+        },
+        {
+        word: "sich unterhalten",
+        preposition: "",
+        example: "Wir haben uns gestern lange unterhalten. Die Kinder unterhalten sich oft über ihre Lieblingsspiele.",
+        translation: "to chat"
+        },
+        {
+        word: "einsetzen",
+        preposition: "",
+        example: "Die Lehrer setzen moderne Unterrichtsmethoden ein, um die Schüler zu motivieren. Für dieses Projekt müssen wir spezielle Werkzeuge einsetzen.",
+        translation: "to use, to apply, to employ, to insert"
+        },
+        {
+        word: "sich für etwas/jemanden einsetzen",
+        preposition: "für+akk",
+        example: "Sie setzt sich aktiv für die Gleichstellung von Frauen in der Arbeitswelt ein. Wir sollten uns alle für den Schutz bedrohter Tierarten einsetzen. Er setzt sich leidenschaftlich für die Rechte von Minderheiten ein. Ich setze mich für die Rechte der von der türkischen Regierung verfolgten Leute ein.",
+        translation: "to advocate, to stand up for, to support"
+        },
+        {
+        word: "einwenden",
+        preposition: "",
+        example: "Sie hat gegen den Vorschlag des Chefs eingewendet. Er hat nichts gegen das Projekt eingewendet.",
+        translation: "to object, to raise an objection, to dissent"
+        },
+        {
+        word: "anstatt",
+        preposition: "",
+        example: "Ich trinke Tee anstatt Kaffee. Anstatt zu fliegen, entschieden sie sich für eine Zugreise. Anstatt den Kindern einen Tierfilm zu zeigen, ist es besser Tiere in der freien Wildbahn oder auf den Bauernhof zu beobachten.",
+        translation: "instead of"
+        },
+        {
+        word: "abheben",
+        preposition: "",
+        example: "Ich werde morgen Geld abheben, um die Rechnung zu bezahlen. Das Flugzeug wird in wenigen Minuten abheben. Sie können den Deckel abheben, um das Gerät zu öffnen.",
+        translation: "to withdraw (money), to take off, to remove, to detach"
+        },
+        {
+        word: "sich abheben",
+        preposition: "",
+        example: "Er hebt sich von der Menge ab durch sein außergewöhnliches Talent. Diese Idee hebt sich deutlich von den anderen ab. Sein Talent hebt ihn von den anderen Schauspielern ab.",
+        translation: "to stand out, to distinguish oneself"
+        },
+        {
+        word: "anlügen",
+        preposition: "",
+        example: "Er hat mich angelogen, als er behauptete, er sei krank.",
+        translation: "to lie, to deceive"
+        },
+        {
+        word: "irgendeine",
+        preposition: "",
+        example: "Ich brauche irgendeine Information über das Projekt. Gibt es irgendeine Lösung?",
+        translation: "any, some"
+        },
+        {
+        word: "beantragen",
+        preposition: "",
+        example: "Er möchte ein Visum für Deutschland beantragen, um seine Familie zu besuchen. Um eine Arbeitserlaubnis zu erhalten, muss man sie bei der zustäntigen Behörde beantragen.",
+        translation: "to apply for, to request"
+        },
+        {
+        word: "Antrag",
+        preposition: "",
+        example: "Ich habe einen Antrag auf Urlaub gestellt. Er reichte einen Antrag auf eine Verlängerung der Frist ein. Der Antrag auf finanzielle Unterstützung wurde genehmigt.",
+        translation: "request, application"
+        },
+        {
+        word: "unmittelbar",
+        preposition: "",
+        example: "Nach dem Unfall wurde unmittelbar ein Rettungswagen gerufen. Bitte kommen Sie unmittelbar ins Büro, es gibt dringende Angelegenheiten zu besprechen. Die unmittelbare Nähe zum Bahnhof macht diese Wohnung sehr attraktiv.",
+        translation: "immediate, direct"
+        },
+        {
+        word: "Auftrag",
+        preposition: "",
+        example: "Ich habe einen Auftrag erhalten, eine neue Website für das Unternehmen zu entwickeln.",
+        translation: "task, job, assignment"
+        },
+        {
+        word: "erstellen",
+        preposition: "",
+        example: "Der Designer wird ein neues Logo für das Unternehmen erstellen. Sie möchten ein Haus bauen und suchen einen Architekten, der die Päne erstellt.",
+        translation: "to design, to create"
+        },
+        {
+        word: "Rundfunk",
+        preposition: "",
+        example: "Der öffentlich-rechtliche Rundfunk bietet eine vielfältige Auswahl an Bildungs- und Unterhaltungsprogrammen.",
+        translation: "broadcasting"
+        },
+        {
+        word: "auswerten",
+        preposition: "",
+        example: "Der Lehrer wird die Tests der Schüler auswerten, um ihre Leistung bewerten.",
+        translation: "to evaluate, to assess, to analyze"
+        },
+        {
+        word: "sich anhören",
+        preposition: "",
+        example: "Das hört sich vielleicht etwas langweilig an. Wir sollten uns den Vortrag des Experten anhören.",
+        translation: "to sound, to listen to"
+        },
+        {
+        word: "mitwirken",
+        preposition: "",
+        example: "Er möchte am Projekt mitwirken und seine Ideen einbringen. Die Bürger wurden angerufen bei der Stadtentwicklung mitzuwirken. Die Experten aus verschiedenen Fachbereichen haben gemeinsam an der Studie mitgewirkt.",
+        translation: "to collaborate, to participate, to contribute"
+        },
+        {
+        word: "gelten für",
+        preposition: "für+akk",
+        example: "Diese Vorschriften gelten für alle Mitarbeiter des Unternehmens. Die Rabatt-aktion gilt nur für Einkäufe ab 50 Euro. Die Verkehrsregeln gelten für alle Autofahrer.",
+        translation: "to apply to, to be valid for"
+        },
+        {
+        word: "sämtlich",
+        preposition: "",
+        example: "Sämtliche Bewohner des Hauses wurden evakuiert. Sämtliche Mitarbeiter müssen an dem Training teilnehmen.",
+        translation: "all, entire, every"
+        },
+        {
+        word: "in Betracht kommen",
+        preposition: "",
+        example: "Für die Stelle des Projektleiters kommen verschiedene Kandidaten in Betracht. Wenn du ein Auto kaufen möchtest, sollten verschiedene Marken in Betracht kommen. Bei der Auswahl eines Urlaubsziels kommen viele Faktoren in Betracht.",
+        translation: "to come into consideration, to be considered"
         }
     ];
     
