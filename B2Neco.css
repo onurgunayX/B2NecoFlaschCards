@@ -1,0 +1,240 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    width: 100%;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #3a3a3a;
+    margin-bottom: 30px;
+    font-size: 28px;
+}
+
+.stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background-color: #4CAF50;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+.counter {
+    font-size: 16px;
+    color: #666;
+}
+
+.flashcard {
+    perspective: 1000px;
+    height: 300px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.flashcard.flipped .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card-front {
+    background-color: #3f51b5;
+    color: white;
+}
+
+.card-back {
+    background-color: #f8f9fa;
+    color: #333;
+    transform: rotateY(180deg);
+    text-align: left;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.preposition {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    font-style: italic;
+}
+
+.example {
+    font-size: 18px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.translation {
+    font-size: 20px;
+    color: #3f51b5;
+    font-weight: bold;
+    border-top: 1px solid #ddd;
+    padding-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.btn {
+    background-color: #3f51b5;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #303f9f;
+}
+
+.btn:disabled {
+    background-color: #b0bec5;
+    cursor: not-allowed;
+}
+
+.difficulty-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.difficulty-btn {
+    flex: 1;
+    margin: 0 5px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s;
+}
+
+.easy {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.medium {
+    background-color: #FFC107;
+    color: #333;
+}
+
+.hard {
+    background-color: #F44336;
+    color: white;
+}
+
+.difficulty-btn:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.shuffle-container {
+    margin-top: 20px;
+}
+
+.shuffle-btn {
+    background-color: #607d8b;
+    width: 100%;
+}
+
+.shuffle-btn:hover {
+    background-color: #455a64;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+    }
+    
+    .flashcard {
+        height: 250px;
+    }
+    
+    h2 {
+        font-size: 24px;
+    }
+    
+    .controls {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .btn {
+        width: 100%;
+    }
+    
+    .difficulty-buttons {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .difficulty-btn {
+        margin: 0;
+    }
+}

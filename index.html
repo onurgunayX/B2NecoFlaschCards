@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Almanca B2 Hafıza Kartları</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Almanca B2 Hafıza Kartları</h1>
+        
+        <div class="stats">
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+            <div class="counter">
+                <span id="currentCard">1</span>/<span id="totalCards">0</span>
+            </div>
+        </div>
+        
+        <div class="flashcard" id="flashcard">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2 id="wordTitle"></h2>
+                    <p id="preposition" class="preposition"></p>
+                </div>
+                <div class="card-back">
+                    <p id="example" class="example"></p>
+                    <p id="translation" class="translation"></p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <button id="prevBtn" class="btn"><i class="fas fa-arrow-left"></i> Önceki</button>
+            <button id="flipBtn" class="btn">Çevir</button>
+            <button id="nextBtn" class="btn">Sonraki <i class="fas fa-arrow-right"></i></button>
+        </div>
+        
+        <div class="difficulty-buttons">
+            <button id="easyBtn" class="difficulty-btn easy">Kolay</button>
+            <button id="mediumBtn" class="difficulty-btn medium">Orta</button>
+            <button id="hardBtn" class="difficulty-btn hard">Zor</button>
+        </div>
+        
+        <div class="shuffle-container">
+            <button id="shuffleBtn" class="btn shuffle-btn"><i class="fas fa-random"></i> Karıştır</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
