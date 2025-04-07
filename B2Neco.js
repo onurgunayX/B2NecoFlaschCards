@@ -547,6 +547,174 @@ document.addEventListener('DOMContentLoaded', function() {
         preposition: "",
         example: "Für die Stelle des Projektleiters kommen verschiedene Kandidaten in Betracht. Wenn du ein Auto kaufen möchtest, sollten verschiedene Marken in Betracht kommen. Bei der Auswahl eines Urlaubsziels kommen viele Faktoren in Betracht.",
         translation: "to come into consideration, to be considered"
+        },
+        {
+        word: "versorgen",
+        preposition: "",
+        example: "Meine Aufgabe ist es, andere Journalisten mit seriösen Nachrichtenmeldungen zu versorgen. Die Eltern versorgen ihre Kinder mit allem, was sie zum Aufwachsen brauchen. Nach dem Unfall wurde der Verletzte sofort versorgt und ins Krankenhaus gebracht.",
+        translation: "to supply, to provide for, to care for"
+        },
+        {
+        word: "abwechslungsreich",
+        preposition: "",
+        example: "Der Urlaub war abwechslungsreich, wir haben sowohl in den Bergen gewandert als auch am Strand entspannt. Die Veranstaltung bietet ein abwechslungsreiches Programm mit Musik, Tanz und Comedy.",
+        translation: "varied, diverse"
+        },
+        {
+        word: "albern",
+        preposition: "",
+        example: "Die Kinder lachten über ihre albernen Witze und Grimassen. Es ist albern, sich über kleine Fehler so aufzuregen.",
+        translation: "silly, foolish"
+        },
+        {
+        word: "fragwürdig",
+        preposition: "",
+        example: "Die Entscheidung des Unternehmens, die Produktion ins Ausland zu verlagern, ist aus ethischer Sicht fragwürdig. Sein Verhalten in der letzten Woche war äußerst fragwürdig. Es ist fragwürdig, ob diese Informationen vertrauenswürdig sind.",
+        translation: "questionable, doubtful"
+        },
+        {
+        word: "anspruchsvoll",
+        preposition: "",
+        example: "Das anspruchsvolle Projekt erfordert viel Fachwissen und intensive Zusammenarbeit. Das anspruchsvolle Training hat ihm geholfen, seine Fähigkeiten zu verbessern.",
+        translation: "demanding, challenging, sophisticated"
+        },
+        {
+        word: "verlogen",
+        preposition: "",
+        example: "Er ist ein verlogener Politiker, der versucht, die Wahrheit zu verschleiern. Ihre verlogenen Ausreden überzeugten niemanden von ihrer Unschuld.",
+        translation: "dishonest, deceitful"
+        },
+        {
+        word: "enthüllen",
+        preposition: "",
+        example: "Die Journalisten konnten einen Skandal aufdecken und enthüllten die Korruption in der Regierung. Der Hacker enthüllte vertrauliche Informationen über das Unternehmen.",
+        translation: "to reveal, to uncover"
+        },
+        {
+        word: "entstellen",
+        preposition: "",
+        example: "Der Unfall hat das Gesicht des Opfers schwer entstellt. Die Vandalen haben das Denkmal durch Graffiti entstellt. Die falschen Gerüchte haben den Ruf des Politikers entstellt.",
+        translation: "to disfigure, to deform"
+        },
+        {
+        word: "vertuschen",
+        preposition: "",
+        example: "Die Regierung versucht, den Skandal zu vertuschen und die Wahrheit vor der Öffentlichkeit zu verbergen. Der Manager versuchte den Diebstahl zu vertuschen, um den Ruf des Unternehmens zu schützen.",
+        translation: "to cover up, to conceal"
+        },
+        {
+        word: "unbedeutend",
+        preposition: "",
+        example: "Seine Bemerkungen waren völlig unbedeutend und wurden von niemandem beachtet.",
+        translation: "insignificant, unimportant"
+        },
+        {
+        word: "etlich",
+        preposition: "",
+        example: "In meinem Garten wachsen etliche verschiedene Blumenarten.",
+        translation: "several, some, a number of"
+        },
+        {
+        word: "in den Griff bekommen",
+        preposition: "",
+        example: "Die Firma hat endlich Ihre Finanzprobleme in den Griff bekommen. Es hat eine Weile gedauert, aber er hat seine Zeitmanagement-Probleme in den Griff bekommen. Er arbeitet hart daran, seine schlechten Gewohnheiten in den Griff zu bekommen.",
+        translation: "to get under control, to get a handle on"
+        },
+        {
+        word: "vorankommen",
+        preposition: "",
+        example: "Mit harter Arbeit und Engagement kann man im Beruf vorankommen. Die Schülerinnen arbeiten hart, um in ihren Studien voranzukommen.",
+        translation: "to get ahead, to make progress"
+        },
+        {
+        word: "beleuchten",
+        preposition: "",
+        example: "In dem Vortrag wurden verschiedene Aspekte des Themas ausführlich beleuchtet. Wir sollten beide Seiten des Arguments beleuchten, bevor wir eine Entscheidung treffen.",
+        translation: "to illuminate, to shed light on, to examine"
+        },
+        {
+        word: "gekonnt",
+        preposition: "",
+        example: "Sie hat die komplizierte Aufgabe sehr gekonnt gelöst. Der Schauspieler spielte die Rolle des Bösewichts gekonnt und überzeugend.",
+        translation: "skillfully, expertly"
+        },
+        {
+        word: "lästig",
+        preposition: "",
+        example: "Diese ständigen Werbeanrufe sind wirklich lästig. Das ständige Klingeln meines Telefons ist lästig, wenn ich mich konzentrieren muss.",
+        translation: "annoying, bothersome"
+        },
+        {
+        word: "Vorwurf",
+        preposition: "",
+        example: "Sie erhob schwere Vorwürfe gegen ihn und beschuldigte ihn des Diebstahls. Trotz der Vorwürfe verteidigte er seine Handlungen und betonte seine Unschuld.",
+        translation: "accusation, reproach"
+        },
+        {
+        word: "ernst genommen werden",
+        preposition: "",
+        example: "Es ist wichtig, dass die Anliegen der Mitarbeiter ernst genommen werden, um ein positives Arbeitsklima zu schaffen. Es ist wichtig, dass meine Ideen im Team ernst genommen werden, damit wir erfolgreich zusammenarbeiten können.",
+        translation: "to be taken seriously"
+        },
+        {
+        word: "ausgehend von",
+        preposition: "von+dat",
+        example: "Ausgehend von den vorliegenden Informationen können wir eine Prognose erstellen. Ausgehend von den aktuellen Trends lässt sich ablesen, dass sich der Markt verändert.",
+        translation: "based on, starting from, assuming"
+        },
+        {
+        word: "übersichtlich",
+        preposition: "",
+        example: "Die Webseite ist übersichtlich gestaltet, damit die Benutzer schnell die benötigten Informationen finden können. Der Bericht bietet eine übersichtliche Darstellung der wichtigsten Ergebnisse der Studie.",
+        translation: "clear, clearly arranged, organized, easy to understand"
+        },
+        {
+        word: "sich bewähren",
+        preposition: "",
+        example: "In der stressigen Situation während des Projekts hat er sich wirklich bewährt. Er musste sich in seinem neuen Job bewähren, indem er seine Fähigkeiten und Kentnisse unter Beweis stellte.",
+        translation: "to prove oneself, to prove one's worth"
+        },
+        {
+        word: "gleichermaßen",
+        preposition: "",
+        example: "Beide Schwestern sind gleichermaßen begabt in der Musik. In dieser Schule werden Sport und Kunst gleichermaßen gefördert.",
+        translation: "equally, likewise, similarly, in the same way"
+        },
+        {
+        word: "belastend",
+        preposition: "",
+        example: "Die ständigen finanziellen Probleme waren für sie sehr belastend. Die belastende Arbeitslast führte zu Erschöpfung und Stress.",
+        translation: "burdensome, taxing, onerous"
+        },
+        {
+        word: "empfinden",
+        preposition: "",
+        example: "Ich empfinde Freude, wenn ich Zeit mit meiner Familie verbringe. Er empfindet große Trauer über den Verlust seines besten Freundes.",
+        translation: "to feel, to sense, to perceive"
+        },
+        {
+        word: "sich zuspitzen",
+        preposition: "",
+        example: "Die politische Lage hat sich in den letzten Wochen dramatisch zugespitzt. Die wirtschaftlichen Probleme des Unternehmens haben sich über die Zeit stetig zugespitzt. Die Diskussion zwischen den beiden Parteien spitzte sich schnell zu einem Streit zu.",
+        translation: "to escalate"
+        },
+        {
+        word: "Ausstrahlung",
+        preposition: "",
+        example: "Ihre Ausstrahlung war so stark, dass alle sofort von ihr angezogen wurden. Der Schauspieler hat eine starke Bühnenpräsenz und eine charismatische Ausstrahlung.",
+        translation: "aura, radiance, charm, presence, charisma"
+        },
+        {
+        word: "gängig",
+        preposition: "",
+        example: "Das ist eine gängige Praxis in dieser Branche. In vielen Ländern sind bestimmte Bräuche und Traditionen gängig.",
+        translation: "common, usual, widespread"
+        },
+        {
+        word: "gradlinig",
+        preposition: "",
+        example: "Seine gradlinige Art zu kommunizieren macht es leicht, mit ihm zusammenzuarbeiten. Ihr gradliniger Ansatz hat dazu beigetragen, das Problem schnell zu lösen.",
+        translation: "straightforward, direct"
         }
     ];
     
